@@ -29,6 +29,7 @@ https://cdn.azul.com/zulu/bin/zulu11.62.17-ca-jdk11.0.18-win_i686.zip ​
 Java (Mac): ​
 
 https://cdn.azul.com/zulu/bin/zulu11.62.17-ca-jdk11.0.18-macosx_x64.zip
+
 2. Craete a folder called Zulu
 3. Extract the files there
 4. Windows Search: *Edit the system environment variables* (you need to have admin access to your device)
