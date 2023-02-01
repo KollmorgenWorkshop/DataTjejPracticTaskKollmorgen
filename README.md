@@ -1,5 +1,5 @@
 
-#Practical Task Agenda (45 minutes)
+# Practical Task Agenda (45 minutes)
 - 10 minutes install the Meeting Room App and Access Jira
 - 15 minutes for exploratory testing
 - 10 minutes for reporting
