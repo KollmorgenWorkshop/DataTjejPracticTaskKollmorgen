@@ -1,4 +1,3 @@
 # Meeting Room Application
-1. Install on your local the following files.
-https://drive.google.com/file/d/1gHYdjEIHFg8EnVloqvssG938ZmE7D_wN/view?usp=share_link
-https://drive.google.com/file/d/1gHYdjEIHFg8EnVloqvssG938ZmE7D_wN/view?usp=share_link
+1. Install on your local the following [files] (https://drive.google.com/drive/folders/14XM_JqFDCtebBuaN4HYO_yu6MEJnlJW2?usp=share_link).
+
